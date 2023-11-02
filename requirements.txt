@@ -1,0 +1,3 @@
+pandas
+ipython-sql
+notebook
